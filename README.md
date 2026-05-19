@@ -5,7 +5,7 @@ The system helps recruiters automatically analyze resumes, extract skills, compa
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 The **AI Resume Analyzer** automates the manual resume screening process by using:
 
@@ -21,9 +21,9 @@ The system supports PDF and DOCX resume uploads and compares candidate skills wi
 
 ---
 
-# 🚀 Features
+# Features
 
-## 👤 User Module
+##  User Module
 
 * User Registration & Login
 * Upload Resume (PDF/DOCX)
@@ -42,7 +42,7 @@ The system supports PDF and DOCX resume uploads and compares candidate skills wi
 * View Top Candidates
 * Candidate Score Analysis
 
-## 🤖 AI Chatbot
+##  AI Chatbot
 
 * Project-specific chatbot
 * Answers queries related to:
@@ -55,7 +55,7 @@ The system supports PDF and DOCX resume uploads and compares candidate skills wi
 
 ---
 
-# 🧠 Technologies Used
+# Technologies Used
 
 | Technology          | Purpose                   |
 | ------------------- | ------------------------- |
@@ -70,7 +70,7 @@ The system supports PDF and DOCX resume uploads and compares candidate skills wi
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```plaintext
 ResumeAnalyzer/
@@ -97,7 +97,7 @@ ResumeAnalyzer/
 
 ---
 
-# ⚙️ System Workflow
+#  System Workflow
 
 1. User registers/login
 2. Uploads resume
@@ -110,7 +110,7 @@ ResumeAnalyzer/
 
 ---
 
-# 🧮 Match Percentage Logic
+#  Match Percentage Logic
 
 The system compares:
 
@@ -185,7 +185,7 @@ Calculation:
 
 ---
 
-# 🤖 AI Chatbot Integration
+#  AI Chatbot Integration
 
 The chatbot uses:
 
@@ -201,7 +201,7 @@ The chatbot uses:
 
 ---
 
-# 🔐 Security Features
+#  Security Features
 
 * Session-based authentication
 * Admin authorization
@@ -210,7 +210,7 @@ The chatbot uses:
 
 ---
 
-# 🎯 Advantages
+#  Advantages
 
 * Reduces manual HR work
 * Fast resume screening
@@ -220,7 +220,7 @@ The chatbot uses:
 
 ---
 
-# 📈 Future Enhancements
+#  Future Enhancements
 
 * Real AI/ML Resume Scoring
 * NLP-based Skill Detection
@@ -231,7 +231,7 @@ The chatbot uses:
 
 ---
 
-# 🖥️ Screens Included
+#  Screens Included
 
 * Home Page
 * Login/Register
@@ -243,15 +243,15 @@ The chatbot uses:
 
 ---
 
-# ▶️ How to Run Project
+#  How to Run Project
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone <repository-link>
 ```
 
-## 2️⃣ Open in Visual Studio
+## 2️ Open in Visual Studio
 
 Open:
 
@@ -261,7 +261,7 @@ ResumeAnalyzer.sln
 
 ---
 
-## 3️⃣ Configure Database
+## 3️ Configure Database
 
 Update:
 
@@ -279,7 +279,7 @@ Example:
 
 ---
 
-## 4️⃣ Install Packages
+## 4️ Install Packages
 
 ```bash
 Install-Package MySql.Data
@@ -290,7 +290,7 @@ Install-Package itext7
 
 ---
 
-## 5️⃣ Run Project
+##  Run Project
 
 Press:
 
@@ -300,7 +300,7 @@ Ctrl + F5
 
 ---
 
-# 📚 Learning Outcomes
+#  Learning Outcomes
 
 This project demonstrates:
 
@@ -313,7 +313,7 @@ This project demonstrates:
 
 ---
 
-# 👩‍💻 Developed By
+#  Developed By
 
 **Saishwari Korade**
 AI Resume Analyzer Project
@@ -321,6 +321,6 @@ Deep Learning / AI Based Final Year Project
 
 ---
 
-# 📄 License
+#  License
 
 This project is developed for educational and academic purposes.
