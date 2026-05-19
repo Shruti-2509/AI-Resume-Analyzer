@@ -1,0 +1,25 @@
+﻿@model List<dynamic>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-4">Top Candidates 🏆</h2>
+
+<table class="table table-bordered text-center">
+    <tr>
+        <th>Name</th>
+        <th>Best Score</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.name</td>
+            <td>@item.score</td>
+        </tr>
+    }
+</table>
+
+<div class="text-center mt-4">
+    <a href="/Admin/Dashboard" class="btn btn-secondary">Back</a>
+</div>

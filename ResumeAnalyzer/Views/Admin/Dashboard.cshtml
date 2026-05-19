@@ -1,0 +1,51 @@
+﻿<div class="row mb-4 text-center">
+    <div class="col-md-4">
+        <div class="card p-3">
+            <h5>Total Users</h5>
+            <h3>@ViewBag.Users</h3>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card p-3">
+            <h5>Total Jobs</h5>
+            <h3>@ViewBag.Jobs</h3>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card p-3">
+            <h5>Total Resumes</h5>
+            <h3>@ViewBag.Resumes</h3>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <!-- Manage Jobs -->
+    <div class="col-md-4">
+        <div class="card p-4 text-center">
+            <h4>Manage Jobs</h4>
+            <a href="/Admin/ManageJobs" class="btn btn-primary mt-2">Go</a>
+        </div>
+    </div>
+
+    <!-- Manage Candidates -->
+    <div class="col-md-4">
+        <div class="card p-4 text-center">
+            <h4>Manage Candidates</h4>
+            <a href="/Admin/ManageCandidates" class="btn btn-primary mt-2">Go</a>
+        </div>
+    </div>
+
+    <!-- ⭐ Top Candidates -->
+    <div class="col-md-4">
+        <div class="card p-4 text-center">
+            <h4>Top Candidates 🏆</h4>
+            <a href="/Admin/TopCandidates" class="btn btn-warning mt-2">View</a>
+        </div>
+    </div>
+    <div class="text-center mt-4">
+        <a href="/" class="btn btn-secondary">
+            Back 
+        </a>
+    </div>
+</div>

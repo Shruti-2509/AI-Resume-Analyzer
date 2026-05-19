@@ -1,0 +1,44 @@
+﻿@model List<ResumeAnalyzer.Models.User>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-4">Manage Candidates</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Role</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var u in Model)
+    {
+        <tr>
+            <td>@u.user_id</td>
+            <td>@u.name</td>
+            <td>@u.email</td>
+            <td>@u.role</td>
+            <td>
+                <!-- 👁 VIEW BUTTON -->
+                <a href="/Admin/ViewCandidate/@u.user_id" class="btn btn-info btn-sm me-2">
+                    View
+                </a>
+
+                <!-- 🗑 DELETE BUTTON -->
+                <a href="/Admin/DeleteUser/@u.user_id" class="btn btn-danger btn-sm">
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+<!-- 🔙 BACK BUTTON -->
+<div class="text-center mt-4">
+    <a href="/Admin/Dashboard" class="btn btn-secondary">
+        Back
+    </a>
+</div>

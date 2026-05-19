@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\services\\chatbotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\services\\chatbotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\admin\\managecandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\admin\\managecandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\services\\matchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\services\\matchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\services\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\services\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\admin\\addjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\admin\\addjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\admin\\topcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\admin\\topcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\utils\\docparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\utils\\docparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\admin\\managejobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\admin\\managejobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\resume\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\resume\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\resume\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\resume\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\admin\\viewcandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\admin\\viewcandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\utils\\pdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\utils\\pdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\views\\admin\\viewjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\views\\admin\\viewjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|c:\\users\\saib9\\source\\repos\\resumeanalyzer\\resumeanalyzer\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057A32-D9FE-747D-BDEF-AE6E3C371103}|ResumeAnalyzer\\ResumeAnalyzer.csproj|solutionrelative:resumeanalyzer\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatbotService.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Services\\ChatbotService.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Services\\ChatbotService.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Services\\ChatbotService.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Services\\ChatbotService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:11:52.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ResumeAnalyzer\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-16T03:40:44.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TopCandidates.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\TopCandidates.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Admin\\TopCandidates.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\TopCandidates.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Admin\\TopCandidates.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T11:04:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:29:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\Result.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:01:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SkillService.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Services\\SkillService.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Services\\SkillService.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Services\\SkillService.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Services\\SkillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:13:19.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddJob.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\AddJob.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Admin\\AddJob.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\AddJob.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Admin\\AddJob.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:30:23.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageCandidates.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ManageCandidates.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Admin\\ManageCandidates.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ManageCandidates.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Admin\\ManageCandidates.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:49:21.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:52:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:12:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:59:43.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchingService.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Services\\MatchingService.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Services\\MatchingService.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Services\\MatchingService.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Services\\MatchingService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:13:38.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ResumeAnalyzer\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-16T03:40:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:30:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\appsettings.json",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\appsettings.json",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\appsettings.json",
+              "RelativeToolTip": "ResumeAnalyzer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T09:34:36.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Program.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Program.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:44:43.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\Job.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:01:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Resume\\Upload.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Resume\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Resume\\Upload.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Resume\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:31:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAswNUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:00:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Controllers\\ResumeController.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:00:07.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageJobs.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ManageJobs.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Admin\\ManageJobs.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ManageJobs.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Admin\\ManageJobs.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:48:43.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocParser.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Utils\\DocParser.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Utils\\DocParser.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Utils\\DocParser.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Utils\\DocParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:14:37.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Resume\\Result.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Resume\\Result.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Resume\\Result.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Resume\\Result.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:31:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewCandidate.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ViewCandidate.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Admin\\ViewCandidate.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ViewCandidate.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Admin\\ViewCandidate.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:59:39.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:54:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PdfParser.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Utils\\PdfParser.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Utils\\PdfParser.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Utils\\PdfParser.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Utils\\PdfParser.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIBJwBAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:14:22.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:54:09.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:38:14.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ViewJobs.cshtml",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ViewJobs.cshtml",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Views\\Admin\\ViewJobs.cshtml",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Views\\Admin\\ViewJobs.cshtml",
+              "RelativeToolTip": "ResumeAnalyzer\\Views\\Admin\\ViewJobs.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:30:42.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Models\\Resume.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\Resume.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:01:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Models\\User.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:01:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Data\\DbConnection.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Data\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Data\\DbConnection.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Data\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:15:44.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzer\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\saib9\\source\\repos\\ResumeAnalyzer\\ResumeAnalyzer\\Controllers\\JobController.cs",
+              "RelativeToolTip": "ResumeAnalyzer\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:00:40.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

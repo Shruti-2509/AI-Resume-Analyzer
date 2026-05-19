@@ -1,0 +1,83 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-4">Resume Analysis Result</h2>
+
+<!-- 🔵 Resume Score -->
+<div class="card text-center p-4 mb-4 shadow" style="border-radius:15px;">
+    <h4>Resume Score</h4>
+    <h1 class="text-primary fw-bold">@ViewBag.Score %</h1>
+</div>
+
+<!-- 🟢 Best Job -->
+@if (ViewBag.BestJob != null)
+{
+    <div class="card p-4 mb-4 border-success shadow" style="border-radius:15px;">
+        <h4 class="text-success">Best Job Match 🎯</h4>
+        <h5>@ViewBag.BestJob.Item1</h5>
+        <p><strong>Match:</strong> @ViewBag.BestJob.Item2 %</p>
+    </div>
+}
+
+<!-- 🔵 Detected Skills -->
+<div class="card p-4 mb-4 shadow" style="border-radius:15px;">
+    <h5>Detected Skills</h5>
+    <div>
+        @foreach (var skill in ViewBag.Skills)
+        {
+            <span class="badge bg-primary m-1 p-2">@skill</span>
+        }
+    </div>
+</div>
+
+<!-- 🟡 Suggestions -->
+@if (ViewBag.Suggestions != null && ViewBag.Suggestions.Count > 0)
+{
+    <div class="card p-4 mb-4 border-warning shadow" style="border-radius:15px;">
+        <h5 class="text-warning">Suggestions to Improve 🚀</h5>
+        <div>
+            @foreach (var s in ViewBag.Suggestions)
+            {
+                <span class="badge bg-warning text-dark m-1 p-2">@s</span>
+            }
+        </div>
+    </div>
+}
+
+<!-- 📊 All Matching Jobs -->
+<h4 class="mb-3">All Matching Jobs</h4>
+
+<div class="row">
+    @foreach (var item in ViewBag.Results)
+    {
+        <div class="col-md-4">
+            <div class="card p-3 mb-3 shadow" style="border-radius:15px;">
+                <h5>@item.Item1</h5>
+                <p><strong>Match:</strong> @item.Item2 %</p>
+
+                @if (item.Item2 > 80)
+                {
+                    <span class="badge bg-success">Excellent Match</span>
+                }
+                else if (item.Item2 > 50)
+                {
+                    <span class="badge bg-info text-dark">Good Match</span>
+                }
+                else
+                {
+                    <span class="badge bg-danger">Low Match</span>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+<!-- 🔙 Back Button -->
+<div class="text-center mt-4">
+    <a href="/Resume/Upload" class="btn btn-primary">Analyze Another Resume</a>
+
+    <button onclick="history.back()" class="btn btn-secondary px-4">
+         Back
+    </button>
+</div>

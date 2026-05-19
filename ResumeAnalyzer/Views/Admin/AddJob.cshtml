@@ -1,0 +1,21 @@
+﻿@model ResumeAnalyzer.Models.Job
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card p-4 mx-auto" style="max-width:500px;">
+    <h3 class="text-center mb-3">Add Job</h3>
+
+    <form method="post">
+        <input name="job_title" class="form-control mb-2" placeholder="Job Title (e.g. .NET Developer)" required />
+        <input name="category" class="form-control mb-2" placeholder="Category (e.g. IT)" required />
+        <textarea name="required_skills" class="form-control mb-2" placeholder="Skills (comma separated)" required></textarea>
+
+        <button class="btn btn-primary w-100">Add Job</button>
+    </form>
+
+    @if (ViewBag.Msg != null)
+    {
+        <p class="text-success mt-2 text-center">@ViewBag.Msg</p>
+    }
+</div>

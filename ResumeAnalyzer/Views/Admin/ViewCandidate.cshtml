@@ -1,0 +1,46 @@
+﻿@model List<dynamic>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-4">Candidate Resume Details</h2>
+
+<table class="table table-bordered text-center">
+    <tr>
+        <th>Resume ID</th>
+        <th>Candidate Name</th>
+        <th>Download</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var r in Model)
+    {
+        <tr>
+            <td>@r.resume_id</td>
+            <td>@r.name</td>
+
+            <!-- Download -->
+            <td>
+                <a href="/uploads/@r.file_path" class="btn btn-success btn-sm" target="_blank">
+                    Download
+                </a>
+            </td>
+
+            <!-- Delete -->
+            <td>
+                <a href="/Admin/DeleteResume/@r.resume_id?userId=@ViewBag.UserId"
+                   class="btn btn-danger btn-sm"
+                   onclick="return confirm('Delete this resume?')">
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+<!-- Back Button -->
+<div class="text-center mt-4">
+    <a href="/Admin/ManageCandidates" class="btn btn-secondary">
+        Back
+    </a>
+</div>

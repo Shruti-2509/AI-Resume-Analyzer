@@ -1,0 +1,69 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="height: 80vh;">
+
+    <div class="card shadow p-4" style="width: 350px; border-radius: 12px;">
+
+        <!-- Title -->
+        <h3 class="text-center mb-3 fw-bold text-primary">
+            Login
+        </h3>
+
+        <!-- Subtitle -->
+        <p class="text-center text-muted mb-4">
+            Welcome to <span class="fw-bold text-primary">AI Resume Analyzer</span>
+        </p>
+
+        <!-- Form -->
+        <form method="post" action="/Account/Login">
+
+            <div class="mb-3">
+                <input type="email" name="email" class="form-control"
+                       placeholder="Enter Email" required />
+            </div>
+
+            <div class="mb-3">
+                <input type="password" name="password" class="form-control"
+                       placeholder="Enter Password" required />
+            </div>
+
+            <button class="btn btn-primary w-100">
+                Login
+            </button>
+
+        </form>
+
+        <!-- Register -->
+        <div class="text-center mt-3">
+            <small>
+                Don’t have an account?
+                <a href="/Account/Register" class="text-primary fw-semibold">
+                    Register
+                </a>
+            </small>
+        </div>
+
+    </div>
+
+</div>
+
+<style>
+    body {
+        background-color: #eaf4fb;
+    }
+
+    .card {
+        background-color: #ffffff;
+    }
+
+    .btn-primary {
+        background-color: #0d6efd;
+        border-radius: 6px;
+    }
+
+    .form-control {
+        border-radius: 6px;
+    }
+</style>
