@@ -14,10 +14,8 @@ namespace ResumeAnalyzer.Services
                 client.DefaultRequestHeaders.Authorization =
                     new AuthenticationHeaderValue(
                         "Bearer",
-                        "YOUR_OPENROUTER_API_KEY"
+                        "sk - or - v1 - 7154d5fd992f8ca37b6e8cbccddca0b889bd5845e1ee4cdc52819e115b01164d"
                     );
-
-                //YOUR_OPENROUTER_API_KEY:sk - or - v1 - 7154d5fd992f8ca37b6e8cbccddca0b889bd5845e1ee4cdc52819e115b01164d
 
                 // ✅ Required Headers
                 client.DefaultRequestHeaders.Add(
